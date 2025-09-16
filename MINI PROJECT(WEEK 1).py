@@ -1,3 +1,4 @@
+#First Week Projects
 import re #regular expressions
 
 print("=== Password Strength Checker ===")  #basic string topic
@@ -23,3 +24,4 @@ else:
         print("- Must contain a digit")
     if not special_ok:
         print("- Must contain a special character (@, $, !, %, *, #, ?, &)")
+
